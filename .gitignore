@@ -1,0 +1,4 @@
+# cTester registry keeps compressed, commit-ready bot and score artifacts.
+# Keep local transient files out of the registry history.
+tmp/
+*.tmp
